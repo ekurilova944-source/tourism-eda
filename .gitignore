@@ -1,0 +1,28 @@
+﻿# Данные
+data/*
+!data/README.md
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Секреты
+.env
